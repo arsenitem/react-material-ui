@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/react-meaterial-ui/static/css/main.266173d9.chunk.css",
+    "main.js": "/react-meaterial-ui/static/js/main.739eb4e0.chunk.js",
+    "main.js.map": "/react-meaterial-ui/static/js/main.739eb4e0.chunk.js.map",
+    "runtime-main.js": "/react-meaterial-ui/static/js/runtime-main.d3342c9d.js",
+    "runtime-main.js.map": "/react-meaterial-ui/static/js/runtime-main.d3342c9d.js.map",
+    "static/js/2.ddfaee4e.chunk.js": "/react-meaterial-ui/static/js/2.ddfaee4e.chunk.js",
+    "static/js/2.ddfaee4e.chunk.js.map": "/react-meaterial-ui/static/js/2.ddfaee4e.chunk.js.map",
+    "index.html": "/react-meaterial-ui/index.html",
+    "precache-manifest.80223b3aaf5b44e10945d0c4053e3599.js": "/react-meaterial-ui/precache-manifest.80223b3aaf5b44e10945d0c4053e3599.js",
+    "service-worker.js": "/react-meaterial-ui/service-worker.js",
+    "static/css/main.266173d9.chunk.css.map": "/react-meaterial-ui/static/css/main.266173d9.chunk.css.map",
+    "static/js/2.ddfaee4e.chunk.js.LICENSE.txt": "/react-meaterial-ui/static/js/2.ddfaee4e.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/react-meaterial-ui/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d3342c9d.js",
+    "static/js/2.ddfaee4e.chunk.js",
+    "static/css/main.266173d9.chunk.css",
+    "static/js/main.739eb4e0.chunk.js"
+  ]
+}

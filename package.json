@@ -1,6 +1,6 @@
 {
-  "name": "react-meaterial-ui",
-  "homepage": "http://arsenitem.github.io/react-meaterial-ui",
+  "name": "react-material-ui",
+  "homepage": "http://arsenitem.github.io/react-material-ui",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
